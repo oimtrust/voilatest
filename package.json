@@ -1,0 +1,11 @@
+{
+  "name": "voilatest",
+  "version": "1.0.0",
+  "description": "e2e test with cucumber",
+  "main": "index.js",
+  "author": "oimtrust | Fathur Rohim | trustoim@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
