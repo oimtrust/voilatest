@@ -2,3 +2,5 @@
 /.idea
 voilatest.iml
 yarn.lock
+yarn-error.log
+/report
