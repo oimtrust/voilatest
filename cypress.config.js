@@ -18,6 +18,6 @@ module.exports = defineConfig({
   e2e: {
     specPattern: "tests/scenarios/**/*.feature",
     supportFile: false,
-    setupNodeEvents,
+    setupNodeEvents
   },
 });

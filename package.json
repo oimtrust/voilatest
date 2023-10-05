@@ -18,8 +18,5 @@
   "scripts": {
     "cy:open": "cypress open",
     "cy:run": "cypress run --reporter mochawesome --reporter-options reportDir=report"
-  },
-  "html": {
-    "enabled": true
   }
 }
