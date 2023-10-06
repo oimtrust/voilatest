@@ -3,3 +3,4 @@ export const ICON_PROFILE_NAME = '.tt-account > .tt-dropdown-toggle > .tt-accoun
 export const TEXT_TITLE_CENTER = '#product-collection-1521705360339 > .container > .custom-block-title > div > .tt-title'
 export const ICON_SEARCH = '.tt-search > .tt-dropdown-toggle'
 export const INPUT_SEARCH = '#boost-pfs-search-box-0'
+export const PRODUCT_RING_KEYWORD = '[data-title="Ring Artwork Print T-Shirt Black"]'

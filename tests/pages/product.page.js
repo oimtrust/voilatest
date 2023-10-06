@@ -1,0 +1,1 @@
+export const TITLE_PRODUCT = '.tt-product-single-info > .tt-title'
