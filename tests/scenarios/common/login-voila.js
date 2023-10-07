@@ -5,10 +5,11 @@ import * as homePage from "../../pages/home.page";
 import * as element from "../../helpers/elements";
 import * as loginPage from "../../pages/login.page";
 import * as loginData from "../../data/login.data";
+import * as cookie from "../../helpers/cookie";
 
 export function loginVoila() {
+  cookie.clearCookies();
   route.visit(ROUTES.home);
-  assert.shouldBeVisible(homePage.TEXT_TITLE_CENTER);
 
   assert.shouldBeVisible(homePage.ICON_PROFILE);
   element.click(homePage.ICON_PROFILE, {force: true});

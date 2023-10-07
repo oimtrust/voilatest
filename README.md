@@ -11,7 +11,7 @@
 - Open the project in VSCode/Aqua.
 - Open the terminal in VSCode/Aqua.
 - Execute `yarn` to install the node modules.
-- Edit your voila.id account at `./tests/data/login.data.js`:
+- Edit your voilà.id account at `./tests/data/login.data.js`:
 ```javascript
 export const VALID_LOGIN_DATA = {
   email: "yourmail@gmail.com",

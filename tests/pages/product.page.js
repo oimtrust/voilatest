@@ -1,1 +1,7 @@
 export const TITLE_PRODUCT = '.tt-product-single-info > .tt-title'
+export const BUTTON_ADD = '[data-type="addtocart"]'
+export const TEXT_ERROR_MESSAGE_FOR_VARIANT = '.swatches-warning'
+export const OPTION_M_VARIANT = '[data-value="M"]'
+export const MODAL_SUCCESS_MESSAGE = '.tt-modal-messages'
+export const BUTTON_GO_TO_BAG_SELECTOR = '.mobile > [href="/cart"]'
+export const BUTTON_GO_TO_BAG = 'Go to Shopping Bag'

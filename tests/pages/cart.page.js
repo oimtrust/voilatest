@@ -1,0 +1,6 @@
+export const TITLE_SHOPPING_BAG = '.tt-title-subpages'
+export const TITLE_PRODUCT = 'h2.tt-title'
+export const BUTTON_DELETE = ':nth-child(6) > .tt-btn-close'
+export const TITLE_EMPTY_CART = '.tt-empty-cart > .tt-title'
+export const INPUT_NOTE = '#note'
+export const BUTTON_CHECKOUT = '#btn-checkout'

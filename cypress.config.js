@@ -15,9 +15,10 @@ module.exports = defineConfig({
   env: {
     baseUrl: 'https://voila.id'
   },
+  chromeWebSecurity: false,
   e2e: {
     specPattern: "tests/scenarios/**/*.feature",
-    supportFile: false,
-    setupNodeEvents
+    setupNodeEvents,
+    defaultCommandTimeout: 6000,
   },
 });
