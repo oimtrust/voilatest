@@ -20,3 +20,11 @@ export const VALID_LOGIN_DATA = {
 ```
 - Execute `yarn run cy:open` to open Cypress Studio.
 - Execute `yarn run cy:run` to run all tests
+
+### Screenshot
+- Login Test
+  ![Login Test](login-test.png "Login Test")
+- Create Transaction Test
+  ![Create Transaction Test](create-transaction.png "Create Transaction Test")
+- All Specs
+  ![All Specs](all-spec.png "All Specs")
