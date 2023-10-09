@@ -23,8 +23,11 @@ export const VALID_LOGIN_DATA = {
 
 ### Screenshot
 - Login Test
-  ![Login Test](login-test.png "Login Test")
+  ![Login Test](images/login-test.png "Login Test")
 - Create Transaction Test
-  ![Create Transaction Test](create-transaction.png "Create Transaction Test")
+  ![Create Transaction Test](images/create-transaction.png "Create Transaction Test")
 - All Specs
-  ![All Specs](all-spec.png "All Specs")
+  ![All Specs](images/all-spec.png "All Specs")
+
+### Interview Question
+You can check in the folder: `interviews`
