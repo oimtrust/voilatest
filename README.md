@@ -28,6 +28,3 @@ export const VALID_LOGIN_DATA = {
   ![Create Transaction Test](images/create-transaction.png "Create Transaction Test")
 - All Specs
   ![All Specs](images/all-spec.png "All Specs")
-
-### Interview Question
-You can check in the folder: `interviews`
